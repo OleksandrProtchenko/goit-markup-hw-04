@@ -297,7 +297,8 @@ body {
 .social-img {
   fill: var(--white);
 }
-.social-hover:hover {
+.social-hover:hover,
+.social-hover:focus {
   background-color: var(--green);
 }
 /* #endregion */
